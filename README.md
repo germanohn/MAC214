@@ -1,4 +1,4 @@
-# Relatório de Treinos: 
+# Relatório dos Treinos: 
 
 ## 17/03/17
 
