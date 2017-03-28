@@ -1,8 +1,20 @@
 # Relatório dos Treinos: 
 
+## 20/03/17
+
+Simulei o Codeforces Round 402 (2 horas) em que resolvi 4 problemas:
+
+  [A. Pupils Redistribution](http://codeforces.com/contest/779/problem/A) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/779/a.cpp)
+  
+  [B. Weird Rounding](http://codeforces.com/contest/779/problem/B) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/779/b.cpp)
+  
+  [C. Dishonest Sellers](http://codeforces.com/contest/779/problem/C) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/779/c.cpp)
+  
+  [D. String Game](http://codeforces.com/contest/779/problem/D) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/779/d.cpp)
+
 ## 18/03/17
 
-Simulei o Codeforces Round 405 (2 horas) em que resolvi 2 problemas e depois mais um no upsolving: 
+Participei no Codeforces Round 405 (2 horas) em que resolvi 2 problemas e depois mais um no upsolving: 
 
   [A. Bear and Big Brother](http://codeforces.com/contest/791/problem/A) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/791/a.cpp)
   
