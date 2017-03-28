@@ -1,5 +1,14 @@
 # Relatório dos Treinos: 
 
+## 24/03/17
+
+Treino de 5 horas no CEC (5 horas) em que fiquei resolvendo o problema KMC Attacks (upsolving de 2010-2011 ACM-ICPC, NEERC, Moscow Subregional Contest) mas não terminei, assisti a aula do Renzo sobre os problemas da seletiva individual 1 e também nos dias anteriores tinha feito os dois problemas que faltavam dessa seletiva: 
+
+  [Wizarding Duel](http://www.spoj.com/problems/AMR11D/en/) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/seletiva2017/1/b.cpp)
+  
+  [Magical Bridges](http://www.spoj.com/problems/AMR11F/en/) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/seletiva2017/1/c.cpp)
+ 
+
 ## 20/03/17
 
 Simulei o Codeforces Round 402 (2 horas) em que resolvi 4 problemas:
