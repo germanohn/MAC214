@@ -19,6 +19,9 @@ Treino no CEC (5 horas) em que fiz um Contest chamado Mash Up (3 horas), em time
   
   [Treasure Island](http://www.spoj.com/problems/TAP2013I/) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/spoj/tap2013i.cpp)
  
+  [Game of stones](http://www.spoj.com/problems/TAP2013J/) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/spoj/tap2013j.cpp)
+  
+  
 ## 30/03/17
 
 Treino no CEC (3 horas) em que resolvi o problema (terminei) KMC Attacks (upsolving de 2010-2011 ACM-ICPC, NEERC, Moscow Subregional Contest):
