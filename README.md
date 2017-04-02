@@ -1,8 +1,43 @@
 # Relatório dos Treinos: 
 
+## 01/04/17
+
+Participei na Seletiva Individual 2 (3 horas), em que resolvi um problema no contest e mais um (por enquanto) no upsolving:
+
+  [B - Button Bashing](https://open.kattis.com/problems/buttonbashing) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/kattis/button_bashing.cpp)
+
+  [E - Jury Jeopardy](https://open.kattis.com/problems/juryjeopardy) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/kattis/jury_jeopardy.cpp)
+  
+  
+## 31/03/17
+
+Treino no CEC (5 horas) em que fiz um Contest chamado Mash Up (3 horas), em time com a Giovana Kobus e o Renzo (Coach). Nele ajudei a resolver e escrevi os seguintes códigos:
+
+  [Escaping from escaping](http://www.spoj.com/problems/TAP2013E/) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/spoj/tap2013e.cpp)
+  
+  [Horace and his primes](http://www.spoj.com/problems/TAP2013H/) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/spoj/tap2013h.cpp)
+  
+  [Treasure Island](http://www.spoj.com/problems/TAP2013I/) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/spoj/tap2013i.cpp)
+ 
+## 30/03/17
+
+Treino no CEC (3 horas) em que resolvi o problema (terminei) KMC Attacks (upsolving de 2010-2011 ACM-ICPC, NEERC, Moscow Subregional Contest):
+
+  [K - KMC Attacks](http://codeforces.com/group/eqgxxTNwgd/contest/100714) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/camp2017unicamp/25/k.cpp)
+ 
+ 
+## 27/03/17
+
+Simulei o Codeforces 406 (2 horas) em que resolvi 0 problemas (esse fui bem mal hahaha), mas depois no upsolving resolvi 2:
+
+  [A. The Monster](http://codeforces.com/contest/787/problem/A) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/787/a.cpp)
+  
+  [B. Not Afraid](http://codeforces.com/contest/787/problem/B) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/787/b.cpp)
+
+
 ## 24/03/17
 
-Treino de 5 horas no CEC (5 horas) em que fiquei resolvendo o problema KMC Attacks (upsolving de 2010-2011 ACM-ICPC, NEERC, Moscow Subregional Contest) mas não terminei, assisti a aula do Renzo sobre os problemas da seletiva individual 1 e também nos dias anteriores tinha feito os dois problemas que faltavam dessa seletiva: 
+Treino no CEC (5 horas) em que fiquei resolvendo o problema KMC Attacks (upsolving de 2010-2011 ACM-ICPC, NEERC, Moscow Subregional Contest) mas não terminei, assisti a aula do Renzo sobre os problemas da seletiva individual 1 e também nos dias anteriores tinha feito os dois problemas que faltavam dessa seletiva: 
 
   [Wizarding Duel](http://www.spoj.com/problems/AMR11D/en/) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/seletiva2017/1/b.cpp)
   
@@ -41,3 +76,13 @@ Treino no CEC (5 horas) em que resolvi 2 problemas (upsolving) da seletiva indiv
   
   
   [Array Diversity](http://www.spoj.com/problems/AMR11H/) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/seletiva2017/1/e.cpp)
+  
+  
+## 11/03/17
+ 
+Participei na Seletiva Individual 1 (3 horas), em que resolvi 2 problemas:
+ 
+   [A - Distinct Primes](http://www.spoj.com/problems/AMR11E/en/) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/spoj/amr11e.cpp)
+   
+   [F - Christmas Play](http://www.spoj.com/problems/AMR10G/en/) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/spoj/amr10g.cpp)
+ 
