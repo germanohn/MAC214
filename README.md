@@ -1,5 +1,18 @@
 # Relatório dos Treinos: 
 
+## 07/04/17
+
+Participei no Codeforces Round 408 (2 horas) em que resolvi 3 problemas e depois mais um no upsolving:
+
+  [A. Buying A House](http://codeforces.com/contest/796/problem/A) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/796/a.cpp)
+  
+  [B. Find The Bone](http://codeforces.com/contest/796/problem/B) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/796/b.cpp)
+  
+  [C. Bank Hacking](http://codeforces.com/contest/796/problem/C) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/796/c.cpp)
+  
+  [D. Police Stations](http://codeforces.com/contest/796/problem/D) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/796/d.cpp)
+
+
 ## 01/04/17
 
 Participei na Seletiva Individual 2 (3 horas), em que resolvi um problema no contest e mais um (por enquanto) no upsolving:
