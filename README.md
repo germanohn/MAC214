@@ -1,6 +1,6 @@
 # Relatório dos Treinos: 
 
-## 22/06/17 - 5 horasxz
+## 22/06/17 - 5 horas
 
 Treino de 5 horas no CEC, em que fiz upsolving do Educational Round 23:
 
