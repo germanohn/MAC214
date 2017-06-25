@@ -149,7 +149,11 @@ Participei do Online Elimination 2017 do Snackdown (5 horas) em um time com Gust
 
 ## 02/06/17 - 5 horas
 
-Participei do Terceiro Mashup (contest de 5 horas feito em time de 3 pessoas).
+Participei do Terceiro Mashup (contest de 5 horas feito em time de 3 pessoas), em que passamos 4 problemas (colocarei 2):
+
+ [Brexit](https://open.kattis.com/problems/brexit) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/kattis/brexit.cpp)
+ 
+ [Battle Simulation](https://open.kattis.com/problems/battlesimulation) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/kattis/battleSimulation.cpp)
 
 
 ## 01/06/17 - 5 horas
@@ -205,7 +209,15 @@ Simulei o Codeforces Round 237 (2 horas) em que resolvi 3 problemas:
  
 ## 13/05/17 - 3 horas
 
-Participei na Seletiva Individual 4 (3 horas), em que resolvi 2 problemas
+Participei na Seletiva Individual 4 (3 horas), em que resolvi 2 problemas:
+
+ [Square-Free Numbers](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3111) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/uva/square_free_numbers.cpp)
+ 
+ [Hyacinth](https://open.kattis.com/problems/hyacinth) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/kattis/hyacinth.cpp)
+ 
+Upsolving: 
+
+ [Knapsack Collection](https://open.kattis.com/problems/knapsackcollection) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/kattis/knapsackCollection.cpp)
 
 
 ## 13/05/17 - 2 horas
@@ -246,6 +258,16 @@ Participei no Codeforces Round 411 (2 horas) em que resolvi 4 problemas:
 ## 29/04/17 - 3 horas
 
 Participei na Seletiva Individual 3 (3 horas), em que resolvi 3 problemas:
+
+ [The Owl and the Fox](http://codeforces.com/gym/100829) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/gym/100829/g.cpp)
+ 
+ [Lunch Menu](http://codeforces.com/gym/100829) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/gym/100829/f.cpp)
+ 
+ [Jumping Yoshi](http://codeforces.com/gym/100829) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/gym/100829/e.cpp)
+ 
+ Upsolving: 
+ 
+ [Chasing the Cheetahs](http://codeforces.com/gym/100829) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/gym/100829/a.cpp)
 
 
 ## 21/04/17 - 2 horas
