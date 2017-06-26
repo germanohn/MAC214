@@ -279,7 +279,7 @@ Participei no Codeforces Round 410 (2 horas) em que resolvi 2 problemas:
   [B. Mike and strings](http://codeforces.com/contest/798/problem/B) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/798/b.cpp)
 
 
-## Semana Santa - 10 horas
+## Semana Santa (feriado) - 10 horas
 
 Fiz upsolving da Seletiva Individual 2, em que resolvi 3 problemas:
 
@@ -288,6 +288,17 @@ Fiz upsolving da Seletiva Individual 2, em que resolvi 3 problemas:
  [Citadel Construction](https://open.kattis.com/problems/citadelconstruction) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/kattis/citadel.cpp)
  
  [Floating Formation](https://open.kattis.com/problems/floatingformation) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/kattis/floating_formation.cpp)
+
+
+## 11/04/17 - 5 horas
+
+Participei do Segundo Mash Up (5 horas) com Gabriel Russo e Victor Sena. Resolvemos 11 problemas dos 12, escrevi o código de um deles:
+
+ [A. The Power of the Dark Side](http://codeforces.com/gym/100247/problem/A) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/gym/100247/a.cpp)
+ 
+ Resolvemos um problema muito legal com ordered_set:
+ 
+ [K. Three Contests](http://codeforces.com/gym/100247/problem/K) [(solução)](https://github.com/germanohn/competitive-programming/blob/master/codeforces/gym/100247/k.cpp)
 
 
 ## 07/04/17 - 2 horas
